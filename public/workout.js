@@ -32,7 +32,7 @@ function tallyExercises(exercises) {
   }, {});
   return tallied;
 }
-
+//is not returning a date
 function formatDate(date) {
   const options = {
     weekday: "long",
@@ -43,6 +43,7 @@ function formatDate(date) {
 
   return new Date(date).toLocaleDateString(options);
 }
+
 
 function renderWorkoutSummary(summary) {
   const container = document.querySelector(".workout-stats");
