@@ -22,6 +22,8 @@
   ## Usage
   You will be able to input new excercises to your current workout. Once your workout is completed you will click on complete and it will log all activities done in the work out in the fitness tracker section. All completed workouts are saved into the database and displayed on the Dashboard section of the app so you can track your progress from when you started working out to current.
 
+  ![Screenshot](image/screenshot.png)
+
   ## Questions
   If you have any questions contact me at:
 
